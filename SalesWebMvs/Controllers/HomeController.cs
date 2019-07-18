@@ -13,13 +13,15 @@ namespace SalesWebMvs.Controllers {
         }
 
         public IActionResult About() {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Sales Web MVC App from C# Course";
+            ViewData["Student"] = "Jonas Garcia";
 
             return View();
         }
 
         public IActionResult Contact() {
             ViewData["Message"] = "Your contact page.";
+            ViewData["EmailCustom"] = "suporte.ti@wittel.com";
 
             return View();
         }
