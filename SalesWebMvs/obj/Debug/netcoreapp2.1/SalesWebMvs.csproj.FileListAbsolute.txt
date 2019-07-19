@@ -30,3 +30,8 @@ C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\SalesWebMvs.Vi
 C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\SalesWebMvs.dll
 C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\SalesWebMvs.pdb
 C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\SalesWebMvs.csproj.CopyComplete
+C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\temp\WS CSharp\SalesWebMvs\SalesWebMvs\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
